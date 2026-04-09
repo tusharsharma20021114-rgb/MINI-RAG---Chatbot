@@ -1,6 +1,6 @@
 #Mini RAG — AI Assistant
 
-> A fully grounded Retrieval-Augmented Generation (RAG) pipeline for the INDECIMAL home construction marketplace, with a deployed chatbot interface powered by **OpenRouter (free)**.
+> A fully grounded Retrieval-Augmented Generation (RAG) pipeline for the home construction marketplace, with a deployed chatbot interface powered by **OpenRouter (free)**.
 
 ---
 
